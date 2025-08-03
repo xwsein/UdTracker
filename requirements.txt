@@ -1,6 +1,7 @@
 numpy
 pandas
+seaborn
+matplotlib
 pillow
 plotly
-seaborn
 streamlit
